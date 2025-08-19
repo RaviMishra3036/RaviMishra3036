@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/RaviMishra3036/RaviMishra3036/blob/main/Blue%20and%20Purple%20Modern%20App%20Developer%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ravi Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
